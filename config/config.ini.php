@@ -9,7 +9,7 @@ tables_prefix = "matomo_"
 
 [General]
 salt = "7a215b43549ac4c9f86a3ac51330f226"
-trusted_hosts[] = "localhost"
+trusted_hosts[] = "https://matomotest1.herokuapp.com/"
 
 [PluginsInstalled]
 PluginsInstalled[] = "Diagnostics"
