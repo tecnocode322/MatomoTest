@@ -1,10 +1,10 @@
 ; <?php exit; ?> DO NOT REMOVE THIS LINE
 ; file automatically generated or modified by Matomo; you can manually override the default values in global.ini.php by redefining them in this file.
 [database]
-host = "127.0.0.1"
-username = "root"
-password = "arzelita322"
-dbname = "matomo"
+host = "bnwbn9h5kxegagpokwia-mysql.services.clever-cloud.com"
+username = "u16ham7lovpupfos"
+password = "sBbtnIB1IRf4t80dzbBS"
+dbname = "bnwbn9h5kxegagpokwia"
 tables_prefix = "matomo_"
 
 [General]
