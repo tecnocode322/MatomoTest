@@ -1,6 +1,6 @@
 <li class="{% if action.goalName is defined %}goal{% else %}action{% endif %}"
     {# title="{{ postEvent('Live.renderActionTooltip', action, visitInfo) }}"> #}
-    title="{{ postEvent('Live.renderActionTooltip', visitInfo) }}">
+    title="{{ postEvent('Live.renderActionTooltip') }}">
     <div>
         {# Page view / Download / Outlink #}
         {% if action.pageTitle|default(false) is not empty %}
